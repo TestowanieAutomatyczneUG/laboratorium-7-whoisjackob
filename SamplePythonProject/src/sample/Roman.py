@@ -1,5 +1,4 @@
 class Roman:
-
     def roman(self, input1):
         if input1 == 4:
             input2 = (input1 - 3) * "I" + "V"
